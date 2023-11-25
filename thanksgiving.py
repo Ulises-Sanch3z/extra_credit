@@ -69,5 +69,3 @@ print()
 dinner.display()
 print()
 dinner.guest_info("Eva")
-
-cow("Hellow")
